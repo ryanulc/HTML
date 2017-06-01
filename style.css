@@ -10,6 +10,11 @@ color: #ff00e1;
 font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
+body, html {
+height: 100%;
+margin:0
+}
+
 #Q1 {
 background-image: url("images/Q1.jpg");
 background-size: cover;
