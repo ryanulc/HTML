@@ -12,8 +12,10 @@ font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 
 #Q1 {
 background-image: url("images/Q1.jpg");
-background-size: 100%;
+background-size: cover;
 background-repeat: no-repeat;
+height: 100%;
+background-position: center:
 }
 #Q2 {
 background-image: url("images/Q2.jpg");
