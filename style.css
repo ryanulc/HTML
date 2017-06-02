@@ -61,3 +61,11 @@ background-repeat: no-repeat;
 height: 100%;
 background-position: center:
 }
+
+#Q7 {
+background-image: url("images/Q7.png");
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+background-position: center:
+}
