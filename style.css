@@ -89,3 +89,11 @@ background-repeat: no-repeat;
 height: 80%;
 background-position: center:
 }
+
+#Q10 {
+background-image: url("images/Q10.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+height: 80%;
+background-position: center:
+}
