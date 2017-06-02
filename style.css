@@ -20,14 +20,14 @@ background-image: url("images/Q1.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
-background-position: center:
+background-position: left;
 }
 #Q2 {
 background-image: url("images/Q2.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
-background-position: center:
+background-position: left;
 }
 
 #Q3 {
@@ -35,7 +35,7 @@ background-image: url("images/Q3.jpeg");
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
-background-position: center:
+background-position: left;
 }
 
 #Q4 {
@@ -43,7 +43,7 @@ background-image: url("images/Q4.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
-background-position: center:
+background-position: left:
 }
 
 #Q5 {
@@ -51,7 +51,7 @@ background-image: url("images/Q5.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
-background-position: center:
+background-position: left:
 }
 
 #Q6 {
@@ -59,7 +59,7 @@ background-image: url("images/Q6.png");
 background-size: cover;
 background-repeat: no-repeat;
 height: 80%;
-background-position: center:
+background-position: left:
 }
 
 #Q7 {
@@ -67,7 +67,7 @@ background-image: url("images/Q7.png");
 background-size: cover;
 background-repeat: no-repeat;
 height: 80%;
-background-position: center:
+background-position: left:
 }
 
 #q7 {
@@ -79,21 +79,21 @@ background-image: url("images/Q8.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 height: 80%;
-background-position: center:
+background-position: left:
 }
 
 #Q9 {
 background-image: url("images/Q9.png");
 background-size: cover;
 background-repeat: no-repeat;
-height: 80%;
-background-position: center:
+height: 100%;
+background-position: left:
 }
 
 #Q10 {
 background-image: url("images/Q10.jpg");
 background-size: cover;
 background-repeat: no-repeat;
-height: 80%;
-background-position: center:
+height: 100%;
+background-position: left:
 }
