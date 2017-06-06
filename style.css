@@ -111,3 +111,11 @@ background-repeat: no-repeat;
             p {
             	font-size: 15px;
             	}
+
+
+#finalh1{
+color: #ff00e1;
+text-shadow: -3px 0 #00ffff,0 3px #00ffff,3px 0 #00ffff,0 -3px #00ffff;
+font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+size: 50px
+}
