@@ -98,10 +98,12 @@ height: 100%;
 background-position: left:
 }
 
-#trivia {
+#triv {
 background-image: url ("images/trivia.jpg");
 background-size: cover;
 background-repeat: no-repeat;
+height: 100%;
+background-position: left:
 }
 
 #final { background-image: url('images/final.jpg');
