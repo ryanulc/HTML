@@ -58,7 +58,7 @@ background-position: left:
 background-image: url("images/Q6.png");
 background-size: cover;
 background-repeat: no-repeat;
-height: 80%;
+height: 100%;
 background-position: left:
 }
 
@@ -78,7 +78,7 @@ color: #00ffff;
 background-image: url("images/Q8.jpg");
 background-size: cover;
 background-repeat: no-repeat;
-height: 80%;
+height: 100%;
 background-position: left:
 }
 
@@ -107,7 +107,7 @@ background-position: left:
 }
 
 #final { background-image: url('images/final.jpg');
-            		background-size: cover;
+            		background-size: 100%;
                     background-repeat: no-repeat;
             	}
             p {
