@@ -150,9 +150,9 @@ background-position: left:
 	-moz-box-shadow:inset -1px -1px 0px -21px #00ffff;
 	-webkit-box-shadow:inset -1px -1px 0px -21px #00ffff;
 	box-shadow:inset -1px -1px 0px -21px #00ffff;
-	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #00ffff), color-stop(1, #47e5e5) );
-	background:-moz-linear-gradient( center top, #00ffff 5%, #47e5e5 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffff', endColorstr='#47e5e5');
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #00ffff), color-stop(1, #00a3a3) );
+	background:-moz-linear-gradient( center top, #00ffff 5%, #00a3a3 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffff', endColorstr='#00a3a3');
 	background-color:#00ffff;
 	-webkit-border-top-left-radius:11px;
 	-moz-border-radius-topleft:11px;
