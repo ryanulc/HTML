@@ -130,8 +130,11 @@ font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
         	#winner {
-	background-color: #e82222;
-    color: black;
+	background-image: url("images/winner.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+background-position: left:
     }
 .pic{
     display: inline-block;
