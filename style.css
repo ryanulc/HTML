@@ -153,7 +153,7 @@ background-position: left:
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0c911), color-stop(1, #f2ab1e) );
 	background:-moz-linear-gradient( center top, #f0c911 5%, #f2ab1e 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0c911', endColorstr='#f2ab1e');
-	background-color:#f0c911;
+	background-color:#00ffff;
 	-webkit-border-top-left-radius:11px;
 	-moz-border-radius-topleft:11px;
 	border-top-left-radius:11px;
@@ -169,7 +169,7 @@ background-position: left:
 	text-indent:-6.28px;
 	border:3px solid #e65f44;
 	display:inline-block;
-	color:#00ffff;
+	color:#000000;
 	font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 	font-size:12px;
 	font-weight:bold;
