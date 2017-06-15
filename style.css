@@ -167,7 +167,7 @@ background-position: left:
 	-moz-border-radius-bottomleft:0px;
 	border-bottom-left-radius:0px;
 	text-indent:-6.28px;
-	border:3px solid #e65f44;
+	border:3px solid #00a3a3;
 	display:inline-block;
 	color:#000000;
 	font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
@@ -182,10 +182,10 @@ background-position: left:
 	text-shadow:1px 1px 29px #ded17c;
 }
 .button:hover {
-	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f2ab1e), color-stop(1, #f0c911) );
-	background:-moz-linear-gradient( center top, #f2ab1e 5%, #f0c911 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f2ab1e', endColorstr='#f0c911');
-	background-color:#f2ab1e;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #00a3a3), color-stop(1, #00ffff) );
+	background:-moz-linear-gradient( center top, #00a3a3 5%, #00ffff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#00a3a3', endColorstr='#00ffff');
+	background-color:##00a3a3;
 	}
 .button:active {
 	position:relative;
