@@ -1,7 +1,7 @@
 i = 1 // counter variable
 	var score=0
-	var goodaudio = new Audio('C:\Users\LILIAN\Desktop\cpt comp. science\images\correct.mp3');
-	var badaudio = new Audio('C:\Users\LILIAN\Desktop\cpt comp. science\images\wrong.mp3');
+	var goodaudio = new Audio('audio/correct.mp3');
+	var badaudio = new Audio('audio/wrong.mp3');
 
 function main(){
 			if (i==1){ 
